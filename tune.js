@@ -1,5 +1,5 @@
 const scribble = require('scribbletune');
-let bass, lead, kick, snare, hi_hat;
+let bass, lead, drum;
 
 bass = scribble.clip({
     notes: ['b2','b2','b2','d3','d3','g2','g2','a2','e2','e2','a2','b2','b2','b2','d3','d3','g2','g2','a2','e2','e2','a2',
